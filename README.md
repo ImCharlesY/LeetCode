@@ -16,3 +16,6 @@ The repository contains some of my codes on the OJ platform LeetCode.
 
   + [x] 45 - TLE (91 / 92 test cases passed)
 
++ 2019.07.20 -- Update 1, 3, 6, 7, 8, 21.
+
+
