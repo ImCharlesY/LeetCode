@@ -17,3 +17,4 @@ The repository contains some of my codes on the OJ platform LeetCode.
 + 2019.08.17 -- Update 15, 16, 17, 18.
 + 2019.08.18 -- Update 19.
 + 2019.08.20 -- Update 126, 522.
++ 2019.08.21 -- Update 22, 24, 26, 27, 28, 29.
